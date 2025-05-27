@@ -7,7 +7,7 @@ import {
 import { RichText } from '@hubspot/cms-components';
 import logo from '../../../assets/sprocket.svg';
 import styles from '../../../styles/getting-started.module.css';
-
+src\theme\assets\sprocket.svg
 export function Component({ fieldValues, hublParameters }) {
   const { src, alt, width, height } = fieldValues.logo;
   const { brandColors } = hublParameters;
